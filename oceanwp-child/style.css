@@ -1,0 +1,29 @@
+/*
+ Theme Name:   OceanWP-child 
+ Theme URI:    http://sorenjakobson.dk/storyscaping/
+ Description:  OceanWP Child Theme
+ Author:       Søren Nørgaard Jakobson
+ Author URI:   http://example.com
+ Template:     oceanwp
+ Version:      0.1.0
+*/ 
+
+.page-header {
+    display:none;
+}
+
+.header-bottom.clr{
+    display:none;
+}
+
+
+#lasmere:hover { transform: scale(1.1); }
+
+div#content-wrap {
+    margin-top:-50px;
+}
+
+input[type="number"]
+{
+    max-width:100% !important;
+}
